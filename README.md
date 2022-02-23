@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on a personal Website
-- 🌱 I’m learning AI & Machine Learning and working on Research Project at UTDallas. Related Technologies: 5G, Networking, Reinforcement Learning.
+- 🌱 I’m learning Machine Learning and currently working on a Research Project at UTDallas. Related Technologies: 5G, Networking, Reinforcement Learning.
 - 👯 I’m looking to collaborate on a personal project
 - 🤔 I’m looking for help with AI & ML
 - 💬 Ask me about anything
